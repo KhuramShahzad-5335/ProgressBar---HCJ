@@ -49,6 +49,4 @@ function update() {
     prev.disabled = false;
     next.disabled = false;
   }
-
-  console.log(progress.style.width);
 }
