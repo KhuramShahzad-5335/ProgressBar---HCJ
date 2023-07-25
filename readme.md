@@ -27,12 +27,12 @@ The project utilizes the following technologies:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/progress-bar-hcj.git
+          git clone https://github.com/your-username/progress-bar-hcj.git
 
 
 2. Navigate to the project directory:
 
-cd progress-bar-hcj
+          cd progress-bar-hcj
 
 
 3. Open the `index.html` file in your preferred web browser.
