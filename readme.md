@@ -11,7 +11,7 @@ This project features a progress bar implemented using HTML, CSS, and JavaScript
 
 ## Demo
 
-A live demo of the project can be found [here](https://your-demo-link-goes-here.com).
+A live demo of the project can be found [here](https://github.com/KhuramShahzad-5335/ProgressBar---HCJ/blob/main/Assest/progress_bar.png?raw=true).
 
 ![Progress Bar HCJ Demo](https://your-image-link-goes-here.com)
 
